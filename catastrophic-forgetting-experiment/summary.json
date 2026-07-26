@@ -1,0 +1,21 @@
+{
+  "n_A_train": 720,
+  "n_A_test": 181,
+  "n_B_train": 716,
+  "n_B_test": 180,
+  "phase1_epochs": 400,
+  "A_train_acc_after_phase1": 1.0,
+  "A_test_acc_after_phase1": 0.9834254143646409,
+  "B_test_acc_before_phase2": 0.0,
+  "A_test_acc_final_no_rehearsal": 0.0,
+  "A_test_acc_final_rehearsal": 0.9447513812154696,
+  "B_test_acc_final_no_rehearsal": 0.9888888888888889,
+  "B_test_acc_final_rehearsal": 0.9777777777777777,
+  "A_test_acc_min_no_rehearsal": 0.0,
+  "A_test_acc_min_rehearsal": 0.09944751381215469,
+  "dead_frac_before": 0.296875,
+  "dead_frac_no_rehearsal": 0.34375,
+  "dead_frac_rehearsal": 0.328125,
+  "w1_drift_no_rehearsal": 15.607509644062592,
+  "w1_drift_rehearsal": 23.992820620511576
+}
