@@ -1,0 +1,30 @@
+{
+  "0.2": {
+    "exploitability_iterate_last": 2.0,
+    "exploitability_iterate_mean_last_decile": 1.9900764438270686,
+    "exploitability_timeavg_last": 0.004052100233040201
+  },
+  "0.05": {
+    "exploitability_iterate_last": 1.9999982268808099,
+    "exploitability_iterate_mean_last_decile": 1.9598762869026924,
+    "exploitability_timeavg_last": 0.00405998029188398
+  },
+  "0.01": {
+    "exploitability_iterate_last": 1.7847675404781884,
+    "exploitability_iterate_mean_last_decile": 1.4989620964142587,
+    "exploitability_timeavg_last": 0.002341989449037629
+  },
+  "0.002": {
+    "exploitability_iterate_last": 0.28129640871317174,
+    "exploitability_iterate_mean_last_decile": 0.23201220370802764,
+    "exploitability_timeavg_last": 0.00044336077752088476
+  },
+  "replicator": {
+    "exploitability_min": 0.1373547678916735,
+    "exploitability_max": 0.25757564141949807,
+    "exploitability_mean": 0.20744203842189857
+  },
+  "nash_itself": {
+    "exploitability": 0.0
+  }
+}

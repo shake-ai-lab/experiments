@@ -1,0 +1,82 @@
+{
+  "0.2": {
+    "n_laps": 140,
+    "first_period_steps": 56,
+    "last_period_steps": 2902,
+    "period_growth": 51.82142857142857,
+    "periods_head": [
+      56,
+      58,
+      34,
+      57,
+      38,
+      67
+    ],
+    "periods_tail": [
+      2840,
+      2867,
+      2883,
+      2902
+    ]
+  },
+  "0.05": {
+    "n_laps": 154,
+    "first_period_steps": 222,
+    "last_period_steps": 2886,
+    "period_growth": 13.0,
+    "periods_head": [
+      222,
+      223,
+      223,
+      225,
+      226,
+      228
+    ],
+    "periods_tail": [
+      2802,
+      2817,
+      2861,
+      2886
+    ]
+  },
+  "0.01": {
+    "n_laps": 180,
+    "first_period_steps": 1107,
+    "last_period_steps": 1909,
+    "period_growth": 1.7244805781391148,
+    "periods_head": [
+      1107,
+      1108,
+      1108,
+      1110,
+      1110,
+      1111
+    ],
+    "periods_tail": [
+      1670,
+      1859,
+      1651,
+      1909
+    ]
+  },
+  "0.002": {
+    "n_laps": 35,
+    "first_period_steps": 5535,
+    "last_period_steps": 5560,
+    "period_growth": 1.004516711833785,
+    "periods_head": [
+      5535,
+      5535,
+      5536,
+      5537,
+      5537,
+      5538
+    ],
+    "periods_tail": [
+      5558,
+      5558,
+      5559,
+      5560
+    ]
+  }
+}
