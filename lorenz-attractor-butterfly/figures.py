@@ -121,8 +121,8 @@ plt.close(fig)
 
 # ---------------------------------------------------------------- GIF
 print("gif", flush=True)
-FR = 46
-seg = pair[::28][:FR * 6]
+FR = 60
+seg = pair[::28]          # 全期間 t = 0〜28（2本が分かれるのは t = 24 付近）
 fig = plt.figure(figsize=(4.9, 4.9))
 ax = fig.add_subplot(111, projection="3d")
 ax.set_axis_off()

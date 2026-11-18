@@ -52,10 +52,10 @@ for i, (bw, factor) in enumerate(zip(bws, factors)):
 
 fig.update_layout(
     sliders=[dict(active=0, steps=steps, currentvalue=dict(prefix="粒度ステップ: "), pad=dict(t=40))],
-    title="スライダーで粗い→適切→細かいを行き来する。同じ220点のサンプルの「見え方」がここまで変わる",
+    title=dict(text="スライダーで粗い→適切→細かいを行き来する<br>同じ220点の「見え方」がここまで変わる", font=dict(size=13)),
     height=560,
     margin=dict(l=30, r=30, t=90, b=60),
-    legend=dict(orientation="h", y=1.08),
+    legend=dict(orientation="h", x=1, xanchor="right", y=1, yanchor="top", bgcolor="rgba(255,255,255,0.8)"),
 )
 for c in [1, 2]:
     fig.update_yaxes(showticklabels=False, range=[0, 0.42], row=1, col=c)
